@@ -1,5 +1,5 @@
-# through
-Senior thesis in Computing &amp; the Arts
+# Through
+Megan Valentine's senior thesis in Computing &amp; the Arts at Yale
 
 The through2 folder contains the code and assets for the final iOS project. Through works best on iOS 9.2+ with the iPhone 6.
 
